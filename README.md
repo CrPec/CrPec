@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @CrPec
-- 🌱 I’m currently learning React
 
 <!---
 CrPec/CrPec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
